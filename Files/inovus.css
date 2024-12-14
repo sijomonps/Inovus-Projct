@@ -1,0 +1,69 @@
+.main-logo{
+    margin-left: 200px;
+    height: 50px;
+    margin-right: 150px;
+}
+.main-btn{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    width: 150px;
+    margin-left: 250px;
+}
+.toggle{
+    height: 12px;
+    margin-left: 2px;
+}
+.main-section{
+    display: flex;
+    margin-bottom: 200px;
+    
+}
+.main-heading{
+    font-weight: bold;
+    font-size: 50px;
+}
+.main-paragraph{
+    color: grey;
+    font-size: 22px;
+}
+.logo{
+    height: 600px;
+    margin-left: 10px;
+    align-items: center;
+    
+}
+.left-page{
+    margin-top: 200px;
+    margin-left: 250px;
+    width: 1000px;
+}
+.buttons{
+    display: flex;
+}
+.center-btn1{
+    background-color: black;
+    color: white;
+    width: 210px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-right: 15px;
+    margin-bottom: 30px;
+}
+.center-btn2{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    width: 150px;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border-width: 1px;
+    
+}
+.right-arrow{
+    margin-left: 5px;
+}
+.second-section{
+    margin-left: 100px;
+}
