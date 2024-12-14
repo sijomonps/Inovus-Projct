@@ -27,6 +27,10 @@ This course was pivotal in helping me:
 - **CSS3**
 - **Bootstrap 5**
 
-##View the Project
+## View the Project
 
-   git clone 
+   git clone https://sijomonps.github.io/Inovus-Projct/
+
+![Uploading Screenshot 2024-12-14 160600.png…]()
+
+   
