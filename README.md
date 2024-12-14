@@ -29,8 +29,8 @@ This course was pivotal in helping me:
 
 ## View the Project
 
-   Clone made by me : https://sijomonps.github.io/Inovus-Projct/
-   Original Website : https://inovuslabs.org/home
+   - Clone made by me : https://sijomonps.github.io/Inovus-Projct/ 
+   - Original Website : https://inovuslabs.org/home 
 
 
 ![Screenshot 2024-12-14 160600](https://github.com/user-attachments/assets/f80e3e45-cb5e-428a-9355-0b39fab0b452)
