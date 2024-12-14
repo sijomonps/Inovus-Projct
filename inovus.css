@@ -21,7 +21,7 @@
 }
 .main-heading{
     font-weight: bold;
-    font-size: 50px;
+    font-size: 60px;
 }
 .main-paragraph{
     color: grey;
@@ -35,7 +35,7 @@
 }
 .left-page{
     margin-top: 200px;
-    margin-left: 250px;
+    margin-left: 200px;
     width: 1000px;
 }
 .buttons{
@@ -65,5 +65,36 @@
     margin-left: 5px;
 }
 .second-section{
-    margin-left: 100px;
+    margin-left: 200px;
+    margin-bottom: 300px;
+}
+.second-page-headings{
+    display: flex;
+}
+.second-page-text1{
+    color: grey;
+    margin-right: 10px;
+    font-weight: bold;
+    
+}
+.second-page-text2{
+    font-weight: bold;
+
+}
+.second-page-paragrah1{
+    color: grey;
+    width: 900px;
+    margin-top: 20px;
+    font-size: 20px;
+    
+}
+.second-page-paragrah2{
+    color: grey;
+    width: 900px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.sijo{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 15px;
 }
